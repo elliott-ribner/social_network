@@ -1,2 +1,4 @@
 # social_network
-final project for CS101 class. 
+
+
+Created a python script to mimic a social networking site as final project for the cs101 
